@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: off
+
+neuralNetwork:
+  feign:
+    unsplash:
+      apiKey: "HWnuDbPtCMQmcJfGvX2PtKy6GA3U4LO9SKuYe1bHJ_E"
+      url: "https://api.unsplash.com/photos"
